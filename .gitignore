@@ -1,0 +1,6 @@
+bin
+Lista-03
+obj
+*.cbp
+*.depend
+*.layout
